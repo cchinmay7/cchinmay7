@@ -3,10 +3,6 @@
 </div>
 <br />
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="300" alt="Hi There !!" />
-</div>
-
 <h1 align="center">I'm Chinmay Chandra</h1>
 <h3 align="center">AI Research Assistant & Machine Learning Engineer</h3>
 
