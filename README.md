@@ -23,7 +23,7 @@
         <li>🎓 B.S. in Computer Science at <b>Pace University</b> (Expected Dec. 2026)</li>
         <li>🔭 Currently working as an <b>AI Research Assistant</b> developing clinical reasoning models and a <b>ML Engineer Intern</b> at Newmark</li>
         <li>🌱 Currently pursuing certifications: <b>AWS Solutions Architect</b>, <b>Snowflake Generative AI</b>, and <b>SnowPro</b></li>
-        <li>⚡ Specializing in: Generative AI, RAG pipelines, and fine-tuning models like Gemini 2.0 Flash and GPT-4.1</li>
+        <li>⚡ Specializing in: Generative AI, RAG pipelines, and fine-tuning AI models </li>
       </ul>
     </td>
     <td width="40%" align="center" style="border: none;">
