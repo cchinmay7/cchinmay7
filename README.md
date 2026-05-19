@@ -10,10 +10,10 @@
 
 ### 👨🏻‍💻 About Me
 
-* 🎓 B.S. in Computer Science at **Pace University** (Expected Dec. 2026) [cite: 4, 9]
-* 🔭 Currently working as an **AI Research Assistant** developing clinical reasoning models [cite: 7, 12]
+* 🎓 B.S. in Computer Science at **Pace University** (Expected Dec. 2026)
+* 🔭 Currently working as an **AI Research Assistant** developing clinical reasoning models
 * 🌱 Currently pursuing certifications: **AWS Solutions Architect**, **Machine Learning**, **Snowflake Generative AI**, and **SnowPro**
-* ⚡ Specializing in: Generative AI, RAG pipelines, and fine-tuning models like Gemini 2.0 Flash and GPT-4.1 [cite: 11, 17]
+* ⚡ Specializing in: Generative AI, RAG pipelines, and fine-tuning models like Gemini 2.0 Flash and GPT-4.1
 
 ---
 
