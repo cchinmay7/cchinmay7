@@ -47,5 +47,3 @@
 |---------|-------------|------------|
 | **[MediVoice](https://github.com/cchinmay7/medivoice)** | Serverless voice intervention platform tracking medication adherence via Alexa workflow | Node.js, FastAPI, AWS (Lambda, DynamoDB), Streamlit |
 | **[GrubToGo](https://github.com/paceuniversity/GrubToGo)** | Full-stack campus food ordering platform reducing institutional food waste by saving users 25-50% | React, Firebase |
-
----
