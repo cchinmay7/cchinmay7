@@ -73,7 +73,7 @@
 | --- | --- | --- |
 | **[MediVoice](https://github.com/cchinmay7/medivoice)** | Serverless voice intervention platform tracking medication adherence via Alexa workflow | Node.js, FastAPI, AWS (Lambda, DynamoDB), Streamlit |
 | **[GrubToGo](https://github.com/paceuniversity/GrubToGo)** | Full-stack campus food ordering platform reducing institutional food waste by saving users 25-50% | React, Firebase |
-| **Robotic Navigation Using Large Language Models** | Modular vision-language-action framework leveraging GPT-4o and GPT-4 Turbo for zero-shot robotic navigation and spatial reasoning in simulated environments | Python, ROS, Gazebo, OpenAI API |
+| **[Robotic Navigation Using LLMs](https://github.com/cchinmay7/robotic_navigation_llms)** | Modular vision-language-action framework leveraging GPT-4o and GPT-4 Turbo for zero-shot robotic navigation and spatial reasoning in simulated environments | Python, ROS, Gazebo, OpenAI API |
 <br />
 
 <div align="center">
