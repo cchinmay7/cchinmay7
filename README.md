@@ -1,5 +1,5 @@
 <h1 align="center">Chinmay Chandra</h1>
-<h3 align="center">AI Research Assistant & Machine Learning Engineer</h3>
+<h3 align="center">Machine Learning Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/chinmay-chandra" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="chinmay-chandra" /></a>
@@ -14,7 +14,7 @@
 ## About Me
 
 - 🎓 B.S. in Computer Science at **Pace University** (Expected Dec. 2026)
-- 🔭 **AI Research Assistant** developing clinical reasoning models, and **ML Engineer Intern** at Newmark
+- 🔭 Previously: **AI Research Assistant** developing clinical reasoning models, and **ML Engineer Intern** at Newmark
 - 🌱 **Databricks Certified Machine Learning Associate** (in progress)
 - ⚡ Specializing in Generative AI, RAG pipelines, and fine-tuning AI models
 
